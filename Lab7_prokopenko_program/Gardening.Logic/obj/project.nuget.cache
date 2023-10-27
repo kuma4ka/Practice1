@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+Kxuh8QIvfgZLYLrLBdzC/vfdBaoM/H5HOoIPyl8bMqdkiItWPCmkokyJ7V+jfm0D9Or+KbClnWIVEW3NM/cg==",
+  "success": true,
+  "projectFilePath": "E:\\ХАІ\\2КУРС\\1 семестр\\ООП\\Lab_7\\Lab7_prokopenko_program\\Gardening.Logic\\Gardening.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\porta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

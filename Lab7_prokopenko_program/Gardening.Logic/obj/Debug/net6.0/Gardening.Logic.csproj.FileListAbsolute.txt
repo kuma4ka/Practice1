@@ -1,0 +1,12 @@
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\bin\Debug\net6.0\Gardening.Logic.deps.json
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\bin\Debug\net6.0\Gardening.Logic.dll
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\bin\Debug\net6.0\Gardening.Logic.pdb
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.csproj.AssemblyReference.cache
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.AssemblyInfoInputs.cache
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.AssemblyInfo.cs
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.csproj.CoreCompileInputs.cache
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.dll
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\refint\Gardening.Logic.dll
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\Gardening.Logic.pdb
+E:\ХАІ\2КУРС\1 семестр\ООП\Lab_7\Lab7_prokopenko_program\Gardening.Logic\obj\Debug\net6.0\ref\Gardening.Logic.dll

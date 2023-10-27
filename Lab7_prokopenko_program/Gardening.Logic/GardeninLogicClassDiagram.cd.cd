@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gardening.Class.Plant">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAkAYAADACIAAwEAEAAAAAAAAIAAEoAAQAAAEAKAAA=</HashCode>
+      <FileName>Modules\Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gardening.Logic.Utils.LineSeparator">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\LineSeparator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gardening.Logic.Utils.PlantCreator">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAACAAAAAAAABAAAAkAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Utils\PlantCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gardening.Logic.ValidatorForPlant.PlantValidator">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAI=</HashCode>
+      <FileName>Validators\PlantValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Gardening.Enum.PlantType">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAIAAIAAAAAAAAAQAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\PlantType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
